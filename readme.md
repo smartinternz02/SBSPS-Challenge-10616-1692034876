@@ -88,7 +88,7 @@ Reservation Details: Display reservation details, including the reservation date
 ## INSTALLATION-FRONT END
 
 
-## REFERENC
+## REFERENCE
 
 Smith, J. (2022). "The Rise of Electric Vehicles: Trends and Market Analysis." Electric Vehicle Research Report, CleanTech Analytics.
 
