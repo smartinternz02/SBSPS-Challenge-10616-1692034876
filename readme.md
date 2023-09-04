@@ -99,7 +99,8 @@ International Journal of Sustainable Transportation, 15(5), 301-318.
 Electric Vehicle Charging Association. (2020). "EV Charging Station Installation Guidelines." EVCA Publications.
 ## Screenshots
 
-![1.HOME PAGE](report%20screenshots/home.png)
+![home](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/ac0561e4-3d22-4090-8dee-b7589addc00b)
+
 ![2.LOGIN PAGE](report screenshots/login.png)
 ![3.RESERVATION](report screenshots/reservation.png)
 ![4.trip planner](report screenshots/tripplanner.png)
