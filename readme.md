@@ -99,13 +99,11 @@ International Journal of Sustainable Transportation, 15(5), 301-318.
 Electric Vehicle Charging Association. (2020). "EV Charging Station Installation Guidelines." EVCA Publications.
 ## Screenshots
 
-![home](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/ac0561e4-3d22-4090-8dee-b7589addc00b)
-
-![2.LOGIN PAGE](report screenshots/login.png)
-![3.RESERVATION](report screenshots/reservation.png)
-![4.trip planner](report screenshots/tripplanner.png)
-![5.trip booking](report screenshots/tripbooking.png)
-![5. profile](report screenshots/profile.png)
-
+![home](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/ac0561e4-3d22-4090-8dee-b7589addc00b "Home Page")
+![login](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/36be28b3-15a2-45ec-966a-0b35251d3414 "Login Page")
+![profile](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/ce04b5b4-5929-4ce4-897b-61200f3346d4 "Profile Page")
+![reservedstation](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/18869e7e-3c0a-4ebb-8c36-ac4f3baf3d4e "Reserved Station")
+![trip](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/b867c052-bae6-417f-bb0a-6c1164e56df4 "Trip Planner")
+![tripbooking](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/a9dac622-04ae-4489-836c-1731b7ca56a8 "Reservaation Conformation")
 
 
