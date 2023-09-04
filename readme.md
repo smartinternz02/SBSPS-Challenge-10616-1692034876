@@ -108,7 +108,7 @@ Electric Vehicle Charging Association. (2020). "EV Charging Station Installation
 ![reservedstation](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/18869e7e-3c0a-4ebb-8c36-ac4f3baf3d4e "Reserved Station")
 ### Trip Planner 
 ![trip](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/b867c052-bae6-417f-bb0a-6c1164e56df4 "Trip Planner")
-### Reservaation Conformation
-![tripbooking](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/a9dac622-04ae-4489-836c-1731b7ca56a8 "Reservaation Conformation")
+### Reservation Conformation
+![tripbooking](https://github.com/smartinternz02/SBSPS-Challenge-10616-1692034876/assets/112232878/a9dac622-04ae-4489-836c-1731b7ca56a8 "Reservation Conformation")
 
 
